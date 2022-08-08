@@ -28,7 +28,7 @@ button {
 
 button .circle {
     position: absolute;
-    background-color: white;
+    background-color: rgb(236, 0, 0);
     width: 100px;
     height: 100px;
     border-radius: 50%;
